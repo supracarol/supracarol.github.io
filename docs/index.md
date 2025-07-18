@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome. This site is about DevOps and software development.
+Welcome. This is my site about DevOps and software development.
